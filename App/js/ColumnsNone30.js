@@ -25,7 +25,7 @@ xui.Class('App.ColumnsNone30', 'xui.Module',{
                 .setItems([
                     {
                         "id":"menu1",
-                        "caption":"menu1",
+                        "caption":"Menu",
                         "sub":[
                             {
                                 "id":"newbooking",
